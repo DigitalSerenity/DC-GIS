@@ -1,0 +1,66 @@
+body {
+  background: center/cover no-repeat
+    url(https://images.unsplash.com/photo-1452421822248-d4c2b47f0c81?q=80&w=2574&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+}
+
+h1 {
+  text-align: center;
+  text-decoration: underline;
+  font-family: Protest Guerrilla, serif;
+  font-size: 100px;
+  color: #ffff;
+}
+
+#welcome {
+  width: 500px;
+  height: 400px;
+  text-align: center;
+  font-size: 25px;
+  padding: 5px;
+  margin: 30px;
+  font-family: "roboto", sans-serif;
+  font-style: normal;
+}
+
+#hover {
+  width: 200px;
+  height: 20px;
+  background-color: azure;
+  border: 1px solid #000;
+  border-radius: 30px;
+  padding: 5px;
+  margin: 30px;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+}
+
+img {
+  width: 300px;
+  height: 300px;
+}
+
+div {
+  border: 5px solid grey;
+  padding: 5px;
+  margin: 50px;
+  width: 300px;
+  height: 300px;
+}
+
+img:hover {
+  width: 1000px;
+  height: 800px;
+}
+
+div:hover {
+  width: 1000px;
+  height: 800px;
+  border-color: #000;
+}
+
+h2 {
+  text-align: center;
+  font-family: Protest Guerrilla, serif;
+  font-size: 20px;
+}
